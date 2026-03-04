@@ -92,15 +92,15 @@
 ### 💡 Profile Stats & Top Languages
 <p align="center">
   <a href="https://github.com/pradipkumarparmar">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pradipkumarparmar&show_icons=true&border_color=6C5CE7&bg_color=1a1b26&title_color=FF6B6B&icon_color=F7DF1E&text_color=a9b1d6&count_private=true" alt="Pradip's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pradipkumarparmar&show_icons=true&border_color=6C5CE7&bg_color=1a1b26&title_color=FF6B6B&icon_color=F7DF1E&text_color=a9b1d6&count_private=true&v=2" alt="Pradip's GitHub Stats" />
   </a>
   <a href="https://github.com/pradipkumarparmar">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pradipkumarparmar&layout=compact&border_color=BE2EDD&bg_color=1a1b26&title_color=FF6B6B&text_color=a9b1d6&langs_count=8" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pradipkumarparmar&layout=compact&border_color=BE2EDD&bg_color=1a1b26&title_color=FF6B6B&text_color=a9b1d6&langs_count=8&v=2" alt="Top Languages" />
   </a>
 </p>
 
 <p align="center">
-  <img width="65%" src="https://github-readme-streak-stats.herokuapp.com?user=pradipkumarparmar&border=BE2EDD&background=1a1b26&stroke=6C5CE7&ring=FF6B6B&fire=EE5A24&currStreakLabel=F7DF1E&sideLabels=a9b1d6&currStreakNum=ffffff&sideNums=ffffff&dates=A55EEA" alt="GitHub Streak"/>
+  <img width="65%" src="https://github-readme-streak-stats.herokuapp.com?user=pradipkumarparmar&border=BE2EDD&background=1a1b26&stroke=6C5CE7&ring=FF6B6B&fire=EE5A24&currStreakLabel=F7DF1E&sideLabels=a9b1d6&currStreakNum=ffffff&sideNums=ffffff&dates=A55EEA&v=2" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -108,7 +108,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pradipkumarparmar&bg_color=1a1b26&color=FF6B6B&line=BE2EDD&point=F7DF1E&area=true&area_color=6C5CE7&hide_border=true&custom_title=🔥%20Pradip's%20Contribution%20Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pradipkumarparmar&bg_color=1a1b26&color=FF6B6B&line=BE2EDD&point=F7DF1E&area=true&area_color=6C5CE7&hide_border=true&custom_title=🔥%20Pradip's%20Contribution%20Graph&v=2" width="100%"/>
 </p>
 
 ---
