@@ -16,13 +16,11 @@
 <!-- Profile Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pradipkumarparmar&label=🔥%20Profile%20Views&color=FF6B6B&style=for-the-badge" alt="Profile Views"/>
-  <a href="https://github.com/pradipkumarparmar?tab=followers"><img src="https://img.shields.io/github/followers/pradipkumarparmar?label=💜%20Followers&style=for-the-badge&color=BE2EDD&labelColor=2d3436" alt="Followers"/></a>
+  <a href="https://github.com/pradipkumarparmar?tab=followers"><img src="https://img.shields.io/github/followers/pradipkumarparmar?label=💜%20Followers&style=for-the-badge&color=BE2EDD&labelColor=2d3436&logo=github&r=1" alt="Followers"/></a>
   <a href="https://github.com/pradipkumarparmar?tab=repositories"><img src="https://img.shields.io/badge/📦%20Public%20Repos-9-6C5CE7?style=for-the-badge&labelColor=2d3436" alt="Repos"/></a>
 </p>
 
 ---
-
-## 💻 About Me
 
 ## 💻 About Me
 
