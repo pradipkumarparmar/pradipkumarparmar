@@ -92,15 +92,15 @@
 ### 💡 Profile Stats & Top Languages
 <p align="center">
   <a href="https://github.com/pradipkumarparmar">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pradipkumarparmar&show_icons=true&theme=tokyonight&count_private=true&rand=1" alt="Pradip's GitHub Stats" />
+    <img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=pradipkumarparmar&show_icons=true&theme=radical&count_private=true&clear_cache=yes" alt="Pradip's GitHub Stats" />
   </a>
   <a href="https://github.com/pradipkumarparmar">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pradipkumarparmar&layout=compact&theme=tokyonight&langs_count=8&rand=1" alt="Top Languages" />
+    <img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=pradipkumarparmar&layout=compact&theme=radical&langs_count=8&clear_cache=yes" alt="Top Languages" />
   </a>
 </p>
 
 <p align="center">
-  <img width="65%" src="https://github-readme-streak-stats.herokuapp.com?user=pradipkumarparmar&theme=tokyonight&rand=1" alt="GitHub Streak"/>
+  <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=pradipkumarparmar&theme=radical&clear_cache=yes" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -108,7 +108,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pradipkumarparmar&theme=tokyo-night&hide_border=true&custom_title=🔥%20Pradip's%20Contribution%20Graph&rand=1" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph/?username=pradipkumarparmar&theme=radical&hide_border=true&custom_title=🔥%20Pradip's%20Contribution%20Graph&clear_cache=yes" width="100%"/>
 </p>
 
 ---
