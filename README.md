@@ -1,24 +1,24 @@
-<div align="center">
-
 <!-- Header Banner -->
+<p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:EE5A24,50:BE2EDD,75:6C5CE7,100:0652DD&height=240&section=header&text=Pradip%20Kumar%20Parmar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=🚀%20Full%20Stack%20Developer%20|%20DevOps%20Enthusiast%20|%20Lifelong%20Learner&descSize=18&descAlignY=55&descColor=ffeaa7"/>
+</p>
 
 <!-- Professional Profile Picture -->
+<p align="center">
 <img src="./profile.png" width="150" height="150" alt="Pradip Kumar Parmar"/>
-
-<br/><br/>
+</p>
 
 <!-- Typing SVG -->
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&random=false&width=750&height=110&lines=%F0%9F%91%8B+Hey+there!+Welcome+to+my+World!;%E2%9C%A8+Building+Amazing+Things+with+Code;%F0%9F%8C%9F+Always+Learning%2C+Always+Growing!" alt="Typing SVG" /></a>
-
-<br/>
+</p>
 
 <!-- Profile Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=pradipkumarparmar&label=🔥%20Profile%20Views&color=FF6B6B&style=for-the-badge)
-[![Followers](https://img.shields.io/github/followers/pradipkumarparmar?label=💜%20Followers&style=for-the-badge&color=BE2EDD&labelColor=2d3436)](https://github.com/pradipkumarparmar?tab=followers)
-[![Repos](https://img.shields.io/badge/📦%20Public%20Repos-9-6C5CE7?style=for-the-badge&labelColor=2d3436)](https://github.com/pradipkumarparmar?tab=repositories)
-
-</div>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=pradipkumarparmar&label=🔥%20Profile%20Views&color=FF6B6B&style=for-the-badge" alt="Profile Views"/>
+<a href="https://github.com/pradipkumarparmar?tab=followers"><img src="https://img.shields.io/github/followers/pradipkumarparmar?label=💜%20Followers&style=for-the-badge&color=BE2EDD&labelColor=2d3436" alt="Followers"/></a>
+<a href="https://github.com/pradipkumarparmar?tab=repositories"><img src="https://img.shields.io/badge/📦%20Public%20Repos-9-6C5CE7?style=for-the-badge&labelColor=2d3436" alt="Repos"/></a>
+</p>
 
 ---
 
@@ -40,19 +40,13 @@ const pradip = {
 };
 ```
 
-<div align="center">
-
 | 🔭 Currently Working On | 🌱 Learning | 🎯 Goal | 🌐 Portfolio |
 |:---:|:---:|:---:|:---:|
 | School Website (React + Node) | JavaScript, React, DevOps | Full Stack Mastery | [📄 Resume](https://pradipkumarparmar.github.io/Resume/) |
 
-</div>
-
 ---
 
 ## 🛠️ Tech Stack & Tools
-
-<div align="center">
 
 ### 🎨 Languages
 
@@ -84,89 +78,69 @@ const pradip = {
 ![npm](https://img.shields.io/badge/npm-FF6B6B?style=for-the-badge&logo=npm&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-EE5A24?style=for-the-badge&logo=githubpages&logoColor=white)
 
-</div>
-
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
 | Project | Tech | Description |
 |:--------|:----:|:------------|
-| 🏫 [**School_WebSite**](https://github.com/pradipkumarparmar/School_WebSite) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | Full-stack school website with admin panel, MySQL backend, responsive & animated UI |
-| 📄 [**Resume**](https://github.com/pradipkumarparmar/Resume) | ![CSS](https://img.shields.io/badge/-CSS-6C5CE7?style=flat-square&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-FF6B6B?style=flat-square&logo=html5&logoColor=white) | 🌐 [Live Portfolio](https://pradipkumarparmar.github.io/Resume/) — Beautiful online resume hosted on GitHub Pages |
-| 📚 [**Java-Script-Learning**](https://github.com/pradipkumarparmar/Java-Script-Learning) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Comprehensive code repository for learning JavaScript concepts |
-| 📸 [**photobazaar**](https://github.com/pradipkumarparmar/photobazaar) | ![Python](https://img.shields.io/badge/-Python-FF6348?style=flat-square&logo=python&logoColor=white) | Photo bazaar application built with Python ⭐ 1 |
-| 🧮 [**Calculator_in_JAVA**](https://github.com/pradipkumarparmar/Calculator_in_JAVA) | ![Java](https://img.shields.io/badge/-Java-E44D26?style=flat-square&logo=openjdk&logoColor=white) | Calculator app built with Java ⭐ 1 |
-| ⚙️ [**Devops1**](https://github.com/pradipkumarparmar/Devops1) | ![Shell](https://img.shields.io/badge/-Shell-A55EEA?style=flat-square&logo=gnu-bash&logoColor=white) | DevOps automation scripts & configurations |
-| 🔤 [**String_Manipulation**](https://github.com/pradipkumarparmar/String_Manipulation) | ![Python](https://img.shields.io/badge/-Python-FF6348?style=flat-square&logo=python&logoColor=white) | String manipulation utilities & algorithms ⭐ 1 |
+| 🏫 [**School_WebSite**](https://github.com/pradipkumarparmar/School_WebSite) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | Full-stack school website with admin panel |
+| 📄 [**Resume**](https://github.com/pradipkumarparmar/Resume) | ![CSS](https://img.shields.io/badge/-CSS-6C5CE7?style=flat-square&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-FF6B6B?style=flat-square&logo=html5&logoColor=white) | 🌐 [Live Portfolio](https://pradipkumarparmar.github.io/Resume/) — Online resume |
+| 📚 [**Java-Script-Learning**](https://github.com/pradipkumarparmar/Java-Script-Learning) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Code repository for learning JavaScript |
+| 📸 [**photobazaar**](https://github.com/pradipkumarparmar/photobazaar) | ![Python](https://img.shields.io/badge/-Python-FF6348?style=flat-square&logo=python&logoColor=white) | Photo bazaar application built with Python |
+| 🧮 [**Calculator_in_JAVA**](https://github.com/pradipkumarparmar/Calculator_in_JAVA) | ![Java](https://img.shields.io/badge/-Java-E44D26?style=flat-square&logo=openjdk&logoColor=white) | Calculator app built with Java |
+| ⚙️ [**Devops1**](https://github.com/pradipkumarparmar/Devops1) | ![Shell](https://img.shields.io/badge/-Shell-A55EEA?style=flat-square&logo=gnu-bash&logoColor=white) | DevOps automation scripts & configs |
+| 🔤 [**String_Manipulation**](https://github.com/pradipkumarparmar/String_Manipulation) | ![Python](https://img.shields.io/badge/-Python-FF6348?style=flat-square&logo=python&logoColor=white) | String manipulation utilities & algorithms |
 | 🏫 [**School_Site**](https://github.com/pradipkumarparmar/School_Site) | — | School website project |
-
-</div>
 
 ---
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<a href="https://github.com/pradipkumarparmar">
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pradipkumarparmar&show_icons=true&border_color=BE2EDD&bg_color=0d1117&title_color=FF6B6B&icon_color=F7DF1E&text_color=ffffff&count_private=true" alt="Pradip's GitHub Stats"/>
-</a>
-<a href="https://github.com/pradipkumarparmar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradipkumarparmar&layout=compact&border_color=6C5CE7&bg_color=0d1117&title_color=FF6B6B&text_color=ffffff&langs_count=8" alt="Top Languages"/>
-</a>
+</p>
 
-<br/><br/>
-
-<a href="https://github.com/pradipkumarparmar">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=pradipkumarparmar&border=BE2EDD&background=0d1117&stroke=6C5CE7&ring=FF6B6B&fire=EE5A24&currStreakLabel=F7DF1E&sideLabels=BE2EDD&currStreakNum=ffffff&sideNums=ffffff&dates=A55EEA" alt="GitHub Streak"/>
-</a>
-
-</div>
+<p align="center">
+  <img width="65%" src="https://github-readme-streak-stats.herokuapp.com?user=pradipkumarparmar&border=BE2EDD&background=0d1117&stroke=6C5CE7&ring=FF6B6B&fire=EE5A24&currStreakLabel=F7DF1E&sideLabels=BE2EDD&currStreakNum=ffffff&sideNums=ffffff&dates=A55EEA" alt="GitHub Streak"/>
+</p>
 
 ---
 
 ## 📈 Contribution Graph
 
-<div align="center">
-
-[![Pradip's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=pradipkumarparmar&bg_color=0d1117&color=FF6B6B&line=BE2EDD&point=F7DF1E&area=true&area_color=6C5CE7&hide_border=true&custom_title=🔥%20Pradip's%20Contribution%20Graph)](https://github.com/pradipkumarparmar)
-
-</div>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pradipkumarparmar&bg_color=0d1117&color=FF6B6B&line=BE2EDD&point=F7DF1E&area=true&area_color=6C5CE7&hide_border=true&custom_title=🔥%20Pradip's%20Contribution%20Graph" width="100%"/>
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=pradipkumarparmar&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/pradipkumarparmar)
-
-</div>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=pradipkumarparmar&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
+</p>
 
 ---
 
 ## 🤝 Let's Connect!
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-pradipkumarparmar-BE2EDD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pradipkumarparmar)
+<p align="center">
+<a href="https://github.com/pradipkumarparmar"><img src="https://img.shields.io/badge/GitHub-pradipkumarparmar-BE2EDD?style=for-the-badge&logo=github&logoColor=white"/></a>
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Resume-FF6B6B?style=for-the-badge&logoColor=white)](https://pradipkumarparmar.github.io/Resume/)
+<a href="https://pradipkumarparmar.github.io/Resume/"><img src="https://img.shields.io/badge/🌐%20Portfolio-Resume-FF6B6B?style=for-the-badge&logoColor=white"/></a>
+</p>
 
-<br/><br/>
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
+</p>
 
-[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/pradipkumarparmar)
-
-<br/>
-
-### ⭐ Show some ❤️ by starring my repositories!
-
-</div>
+<h3 align="center">⭐ Show some ❤️ by starring my repositories!</h3>
 
 <br/>
 
 <!-- Footer Wave -->
+<p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0652DD,25:6C5CE7,50:BE2EDD,75:EE5A24,100:FF6B6B&height=130&section=footer"/>
+</p>
