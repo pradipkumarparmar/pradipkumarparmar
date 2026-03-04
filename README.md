@@ -1,197 +1,200 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00d4ff&height=220&section=header&text=Pradip%20Kumar%20Parmar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20DevOps%20Enthusiast%20%7C%20Lifelong%20Learner&descSize=18&descAlignY=55&descColor=58a6ff"/>
+<!-- Header Banner - Vibrant Purple to Pink to Orange Gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:EE5A24,50:BE2EDD,75:6C5CE7,100:0652DD&height=240&section=header&text=Pradip%20Kumar%20Parmar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=🚀%20Full%20Stack%20Developer%20%7C%20DevOps%20Enthusiast%20%7C%20Lifelong%20Learner&descSize=18&descAlignY=55&descColor=ffeaa7"/>
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&random=false&width=700&height=100&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+Profile!;Building+cool+stuff+with+code+%F0%9F%9A%80;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" /></a>
+<!-- Typing SVG with Vibrant Colors -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&random=false&width=750&height=110&lines=%F0%9F%91%8B+Hey+there!+Welcome+to+my+World!;%E2%9C%A8+Building+Amazing+Things+with+Code;%F0%9F%8C%9F+Always+Learning%2C+Always+Growing!" alt="Typing SVG" /></a>
 
 <br/>
 
-<!-- Profile Views & Followers -->
-<img src="https://komarev.com/ghpvc/?username=pradipkumarparmar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-<a href="https://github.com/pradipkumarparmar?tab=followers"><img src="https://img.shields.io/github/followers/pradipkumarparmar?label=Followers&style=for-the-badge&color=00d4ff&labelColor=0d1117" alt="Followers"/></a>
-<a href="https://github.com/pradipkumarparmar?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-9-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Repos"/></a>
+<!-- Profile Badges - Vibrant Colors -->
+<img src="https://komarev.com/ghpvc/?username=pradipkumarparmar&label=🔥%20Profile%20Views&color=FF6B6B&style=for-the-badge" alt="Profile views" />
+<a href="https://github.com/pradipkumarparmar?tab=followers"><img src="https://img.shields.io/github/followers/pradipkumarparmar?label=💜%20Followers&style=for-the-badge&color=BE2EDD&labelColor=2d3436" alt="Followers"/></a>
+<a href="https://github.com/pradipkumarparmar?tab=repositories"><img src="https://img.shields.io/badge/📦%20Public%20Repos-9-6C5CE7?style=for-the-badge&labelColor=2d3436" alt="Repos"/></a>
 
 </div>
 
----
+<br/>
 
-## 🧑‍💻 About Me
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-```yaml
-name: Pradip Kumar Parmar
-username: pradipkumarparmar
-github: https://github.com/pradipkumarparmar
-portfolio: https://pradipkumarparmar.github.io/Resume/
-joined: May 2019
-focus: Full Stack Development | DevOps | Data Engineering
-passion: Building real-world applications & continuous learning
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" width="35" /> &nbsp; About Me
+
+```javascript
+const pradip = {
+    name: "Pradip Kumar Parmar",
+    username: "pradipkumarparmar",
+    portfolio: "https://pradipkumarparmar.github.io/Resume/",
+    joinedGitHub: "May 2019",
+    
+    currentlyWorkingOn: "🏫 School Website with React.js & Node.js",
+    learning: ["JavaScript", "React", "DevOps", "Data Engineering"],
+    passionateAbout: "Building real-world web apps & automation",
+    goal: "Master Full Stack Development & Cloud DevOps",
+    
+    funFact: "I debug with console.log and I'm proud of it 😄"
+};
 ```
-
-- 🔭 I'm currently working on **School Website Development** using React.js & Node.js
-- 🌱 I'm actively learning **JavaScript, React, DevOps, and Data Engineering**
-- 💻 I love building **web applications, automation scripts, and data pipelines**
-- 🎯 My goal is to master **Full Stack Development** and **Cloud DevOps**
-- 🌐 Check out my **[Online Resume](https://pradipkumarparmar.github.io/Resume/)**
-
----
-
-## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-### 💻 Languages
+| 🔭 Currently Working On | 🌱 Learning | 🎯 Goal | 🌐 Portfolio |
+|:---:|:---:|:---:|:---:|
+| School Website (React + Node) | JavaScript, React, DevOps | Full Stack Mastery | [Resume](https://pradipkumarparmar.github.io/Resume/) |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" /> &nbsp; Tech Stack & Tools
+
+<div align="center">
+
+### 🎨 Languages
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-FF6348?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-E44D26?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Shell-A55EEA?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-FF6B6B?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-6C5CE7?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### 🚀 Frameworks & Libraries
+### ⚡ Frameworks & Libraries
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-2ECC71?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-FFC312?style=for-the-badge&logo=express&logoColor=black" />
+<img src="https://img.shields.io/badge/Vite-BE2EDD?style=for-the-badge&logo=vite&logoColor=white" />
 </p>
 
 ### 🗄️ Databases & DevOps
 <p>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-FF6348?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F79F1F?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-BE2EDD?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-EE5A24?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Airflow-6C5CE7?style=for-the-badge&logo=apacheairflow&logoColor=white" />
 </p>
 
-### 🧰 Tools & Platforms
+### 🧰 Tools
 <p>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-0652DD?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/npm-FF6B6B?style=for-the-badge&logo=npm&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Pages-EE5A24?style=for-the-badge&logo=githubpages&logoColor=white" />
 </p>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📂 Featured Projects
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" /> &nbsp; Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/pradipkumarparmar/School_WebSite">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pradipkumarparmar&repo=School_WebSite&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=00d4ff&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pradipkumarparmar&repo=School_WebSite&theme=radical&border_color=BE2EDD&bg_color=0d1117&title_color=FF6B6B&icon_color=F79F1F&text_color=ffffff" />
 </a>
 <a href="https://github.com/pradipkumarparmar/Resume">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pradipkumarparmar&repo=Resume&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=00d4ff&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pradipkumarparmar&repo=Resume&theme=radical&border_color=6C5CE7&bg_color=0d1117&title_color=BE2EDD&icon_color=F7DF1E&text_color=ffffff" />
 </a>
 <a href="https://github.com/pradipkumarparmar/Java-Script-Learning">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pradipkumarparmar&repo=Java-Script-Learning&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=00d4ff&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pradipkumarparmar&repo=Java-Script-Learning&theme=radical&border_color=EE5A24&bg_color=0d1117&title_color=F7DF1E&icon_color=FF6B6B&text_color=ffffff" />
 </a>
 <a href="https://github.com/pradipkumarparmar/photobazaar">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pradipkumarparmar&repo=photobazaar&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=00d4ff&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pradipkumarparmar&repo=photobazaar&theme=radical&border_color=FF6B6B&bg_color=0d1117&title_color=EE5A24&icon_color=6C5CE7&text_color=ffffff" />
 </a>
 <a href="https://github.com/pradipkumarparmar/Calculator_in_JAVA">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pradipkumarparmar&repo=Calculator_in_JAVA&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=00d4ff&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pradipkumarparmar&repo=Calculator_in_JAVA&theme=radical&border_color=F79F1F&bg_color=0d1117&title_color=6C5CE7&icon_color=EE5A24&text_color=ffffff" />
 </a>
 <a href="https://github.com/pradipkumarparmar/Devops1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pradipkumarparmar&repo=Devops1&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=00d4ff&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pradipkumarparmar&repo=Devops1&theme=radical&border_color=2ECC71&bg_color=0d1117&title_color=FF6B6B&icon_color=BE2EDD&text_color=ffffff" />
 </a>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 GitHub Analytics
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" /> &nbsp; GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pradipkumarparmar&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=00d4ff&text_color=c9d1d9&hide_border=false&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=pradipkumarparmar&theme=github-dark-blue&border=30363d&background=0d1117&stroke=58a6ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pradipkumarparmar&show_icons=true&border_color=BE2EDD&bg_color=0d1117&title_color=FF6B6B&icon_color=F7DF1E&text_color=ffffff&hide_border=false&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=pradipkumarparmar&border=BE2EDD&background=0d1117&stroke=6C5CE7&ring=FF6B6B&fire=EE5A24&currStreakLabel=F7DF1E&sideLabels=BE2EDD&currStreakNum=ffffff&sideNums=ffffff&dates=A55EEA" />
 
 <br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradipkumarparmar&layout=donut-vertical&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=false&langs_count=8" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradipkumarparmar&layout=donut-vertical&border_color=6C5CE7&bg_color=0d1117&title_color=FF6B6B&text_color=ffffff&hide_border=false&langs_count=8" />
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📈 Contribution Graph
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pradipkumarparmar&bg_color=0d1117&color=58a6ff&line=00d4ff&point=ff6b6b&area=true&area_color=00d4ff&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pradipkumarparmar&bg_color=0d1117&color=FF6B6B&line=BE2EDD&point=F7DF1E&area=true&area_color=6C5CE7&hide_border=true&custom_title=🔥%20Pradip's%20Contribution%20Graph" />
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=pradipkumarparmar&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=pradipkumarparmar&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" />
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🗺️ All Repositories at a Glance
+## 🗺️ All Repositories
 
-| # | Repository | Language | Description | Stars |
-|:-:|:-----------|:--------:|:------------|:-----:|
-| 1 | 🏫 [School_WebSite](https://github.com/pradipkumarparmar/School_WebSite) | JavaScript | Full-stack school website with React.js & Node.js | ⭐ 0 |
-| 2 | 🏫 [School_Site](https://github.com/pradipkumarparmar/School_Site) | — | School site project | ⭐ 0 |
-| 3 | 📄 [Resume](https://github.com/pradipkumarparmar/Resume) | CSS | Online resume hosted on GitHub Pages | ⭐ 0 |
-| 4 | 📚 [Java-Script-Learning](https://github.com/pradipkumarparmar/Java-Script-Learning) | JavaScript | Code repository for JavaScript learning | ⭐ 0 |
-| 5 | ⚙️ [Devops1](https://github.com/pradipkumarparmar/Devops1) | Shell | DevOps scripts & configurations | ⭐ 0 |
-| 6 | 🧮 [Calculator_in_JAVA](https://github.com/pradipkumarparmar/Calculator_in_JAVA) | Java | Calculator application built in Java | ⭐ 1 |
-| 7 | 📸 [photobazaar](https://github.com/pradipkumarparmar/photobazaar) | Python | Photo bazaar application | ⭐ 1 |
-| 8 | 🔤 [String_Manipulation](https://github.com/pradipkumarparmar/String_Manipulation) | Python | String manipulation utilities & algorithms | ⭐ 1 |
-| 9 | ⚙️ [pradipkumarparmar](https://github.com/pradipkumarparmar/pradipkumarparmar) | — | GitHub profile config | ⭐ 0 |
+<div align="center">
 
----
+| # | Repository | Language | Description | ⭐ |
+|:-:|:-----------|:--------:|:------------|:--:|
+| 1 | 🏫 [**School_WebSite**](https://github.com/pradipkumarparmar/School_WebSite) | `JavaScript` | Full-stack school website with React.js & Node.js | 0 |
+| 2 | 🏫 [**School_Site**](https://github.com/pradipkumarparmar/School_Site) | — | School site project | 0 |
+| 3 | 📄 [**Resume**](https://github.com/pradipkumarparmar/Resume) | `CSS` | Online resume on GitHub Pages | 0 |
+| 4 | 📚 [**Java-Script-Learning**](https://github.com/pradipkumarparmar/Java-Script-Learning) | `JavaScript` | Code repo for JS learning | 0 |
+| 5 | ⚙️ [**Devops1**](https://github.com/pradipkumarparmar/Devops1) | `Shell` | DevOps scripts & configs | 0 |
+| 6 | 🧮 [**Calculator_in_JAVA**](https://github.com/pradipkumarparmar/Calculator_in_JAVA) | `Java` | Calculator app in Java | 1 |
+| 7 | 📸 [**photobazaar**](https://github.com/pradipkumarparmar/photobazaar) | `Python` | Photo bazaar application | 1 |
+| 8 | 🔤 [**String_Manipulation**](https://github.com/pradipkumarparmar/String_Manipulation) | `Python` | String manipulation & algorithms | 1 |
+| 9 | ⚙️ [**pradipkumarparmar**](https://github.com/pradipkumarparmar/pradipkumarparmar) | — | GitHub profile config | 0 |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🤝 Let's Connect!
 
 <div align="center">
 
 <a href="https://github.com/pradipkumarparmar">
-  <img src="https://img.shields.io/badge/GitHub-pradipkumarparmar-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-pradipkumarparmar-BE2EDD?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://pradipkumarparmar.github.io/Resume/">
-  <img src="https://img.shields.io/badge/Portfolio-Resume-00d4ff?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-Resume-FF6B6B?style=for-the-badge&logoColor=white" />
 </a>
 
 <br/><br/>
 
-💡 *"Code is like humor. When you have to explain it, it's bad."* — Cory House
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pradipkumarparmar/pradipkumarparmar/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pradipkumarparmar/pradipkumarparmar/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pradipkumarparmar/pradipkumarparmar/output/github-snake.svg" />
-</picture>
-
-<br/><br/>
-
-⭐ **If you like my work, consider giving a star to my repositories!** ⭐
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 
 <br/>
 
+### ⭐ Show some ❤️ by starring my repositories!
+
 </div>
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:161b22,100:0d1117&height=120&section=footer"/>
+<br/>
+
+<!-- Footer Wave - Pink to Purple to Blue Gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0652DD,25:6C5CE7,50:BE2EDD,75:EE5A24,100:FF6B6B&height=130&section=footer"/>
