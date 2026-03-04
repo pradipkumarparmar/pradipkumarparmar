@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:EE5A24,50:BE2EDD,75:6C5CE7,100:0652DD&height=240&section=header&text=Pradip%20Kumar%20Parmar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=🚀%20Full%20Stack%20Developer%20|%20DevOps%20Enthusiast%20|%20Lifelong%20Learner&descSize=18&descAlignY=55&descColor=ffeaa7"/>
 
 <!-- Professional Profile Picture -->
-<img src="./profile.png" width="200" height="200" style="border-radius: 50%;" alt="Pradip Kumar Parmar"/>
+<img src="./profile.png" width="150" height="150" alt="Pradip Kumar Parmar"/>
 
 <br/><br/>
 
@@ -22,7 +22,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 💻 About Me
 
 ```javascript
 const pradip = {
