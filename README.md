@@ -32,6 +32,10 @@
 - 🚀 **Passionate about:** Building real-world web apps and automation
 - 😄 **Fun Fact:** I debug with `console.log` and I'm proud of it!
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mkaithiya/mkaithiya/main/Animated-Gifs/coding1.gif" width="400" alt="Animated Developer" />
+</p>
+
 | 🔭 Currently Working On | 🌱 Learning | 🎯 Goal | 🌐 Portfolio |
 |:---:|:---:|:---:|:---:|
 | School Website (React + Node) | JavaScript, React, DevOps | Full Stack Mastery | [📄 Resume](https://pradipkumarparmar.github.io/Resume/) |
