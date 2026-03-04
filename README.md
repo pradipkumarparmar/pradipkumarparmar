@@ -5,7 +5,7 @@
 
 <!-- Professional Profile Picture -->
 <p align="center">
-<img src="./profile.png" width="150" height="150" alt="Pradip Kumar Parmar"/>
+<img src="https://raw.githubusercontent.com/pradipkumarparmar/pradipkumarparmar/main/profile.png" width="150" height="150" alt="Pradip Kumar Parmar" style="border-radius: 50%;"/>
 </p>
 
 <!-- Typing SVG -->
@@ -24,21 +24,15 @@
 
 ## 💻 About Me
 
-```javascript
-const pradip = {
-    name: "Pradip Kumar Parmar",
-    username: "pradipkumarparmar",
-    portfolio: "https://pradipkumarparmar.github.io/Resume/",
-    joinedGitHub: "May 2019",
-    
-    currentlyWorkingOn: "🏫 School Website with React.js & Node.js",
-    learning: ["JavaScript", "React", "DevOps", "Data Engineering"],
-    passionateAbout: "Building real-world web apps & automation",
-    goal: "Master Full Stack Development & Cloud DevOps",
-    
-    funFact: "I debug with console.log and I'm proud of it 😄"
-};
-```
+## 💻 About Me
+
+👋 Hello! I'm **Pradip Kumar Parmar**, a passionate Full Stack Developer and DevOps enthusiast.
+
+- 🏫 **Currently working on:** School Website with React.js & Node.js
+- 🌱 **Learning:** Advanced JavaScript, React, DevOps, and Data Engineering
+- 🎯 **Goal:** Master Full Stack Development & Cloud DevOps
+- 🚀 **Passionate about:** Building real-world web apps and automation
+- 😄 **Fun Fact:** I debug with `console.log` and I'm proud of it!
 
 | 🔭 Currently Working On | 🌱 Learning | 🎯 Goal | 🌐 Portfolio |
 |:---:|:---:|:---:|:---:|
