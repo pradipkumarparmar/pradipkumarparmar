@@ -15,15 +15,9 @@
 
 <!-- Profile Badges -->
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=pradipkumarparmar&label=Profile%20Views&color=0e75b6&style=flat">
-    <img src="https://komarev.com/ghpvc/?username=pradipkumarparmar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/pradipkumarparmar?tab=followers">
-    <img src="https://img.shields.io/github/followers/pradipkumarparmar?label=Followers&style=flat&color=2eb67d" alt="Followers" />
-  </a>
-  <a href="https://github.com/pradipkumarparmar?tab=repositories">
-    <img src="https://img.shields.io/badge/Public%20Repos-9-8b008b?style=flat" alt="Public Repos" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=pradipkumarparmar&label=🔥%20Profile%20Views&color=FF6B6B&style=for-the-badge" alt="Profile Views"/>
+  <a href="https://github.com/pradipkumarparmar?tab=followers"><img src="https://img.shields.io/github/followers/pradipkumarparmar?label=💜%20Followers&style=for-the-badge&color=BE2EDD&labelColor=2d3436" alt="Followers"/></a>
+  <a href="https://github.com/pradipkumarparmar?tab=repositories"><img src="https://img.shields.io/badge/📦%20Public%20Repos-9-6C5CE7?style=for-the-badge&labelColor=2d3436" alt="Repos"/></a>
 </p>
 
 ---
@@ -98,12 +92,12 @@
 ## 📊 GitHub Analytics
 
 ### 💡 Profile Stats & Top Languages
-<p align="left">
+<p align="center">
   <a href="https://github.com/pradipkumarparmar">
-    <img src="https://github-readme-stats.vercel.app/api?username=pradipkumarparmar&show_icons=true&theme=radical&count_private=true" alt="Pradip's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pradipkumarparmar&show_icons=true&border_color=BE2EDD&bg_color=0d1117&title_color=FF6B6B&icon_color=F7DF1E&text_color=ffffff&count_private=true" alt="Pradip's GitHub Stats" />
   </a>
   <a href="https://github.com/pradipkumarparmar">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradipkumarparmar&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pradipkumarparmar&layout=compact&border_color=6C5CE7&bg_color=0d1117&title_color=FF6B6B&text_color=ffffff&langs_count=8" alt="Top Languages" />
   </a>
 </p>
 
@@ -121,13 +115,15 @@
 
 ---
 
+<!-- 🏆 GitHub Trophies (Currently hidden because the public API server is down)
 ## 🏆 GitHub Trophies
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=pradipkumarparmar&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
   </a>
 </p>
+-->
 
 ---
 
