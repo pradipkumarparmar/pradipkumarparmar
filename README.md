@@ -10,7 +10,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&random=false&width=750&height=110&lines=%F0%9F%91%8B+Hey+there!+Welcome+to+my+World!;%E2%9C%A8+Building+Amazing+Things+with+Code;%F0%9F%A4%96+Architecting+Autonomous+AI+Agents;%F0%9F%8E%AC+Automating+AI+Video+Production!;%F0%9F%94%92+Securing+Apps+with+Best+Practices" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&random=false&width=750&height=110&lines=%F0%9F%91%8B+Hey+there!+Welcome+to+my+World!;%E2%9C%A8+Building+Amazing+Things+with+Code;%F0%9F%A4%96+Architecting+Autonomous+AI+Agents;%F0%9F%9A%80+Scaling+Distributed+Data+Systems!;%F0%9F%94%92+Securing+Apps+with+Best+Practices" alt="Typing SVG" /></a>
 </p>
 
 <!-- Profile Badges -->
@@ -26,7 +26,7 @@
 
 👋 Hello! I'm **Pradip Kumar Parmar**, a results-driven Architect specializing in AI Agents, Data Engineering, and Scalable Full Stack Applications.
 
-- 🏫 **Currently working on:** Automated AI Video Studios & Snowflake Data Pipelines
+- 🏫 **Currently working on:** Advanced AI Agents & Snowflake Data Pipelines
 - 🌱 **Expertise in:** Multi-Agent Orchestration, Modern UI/UX (Glassmorphism), and Cloud Security
 - 🎯 **Goal:** Bridge the gap between AI Research and Production-Ready Applications
 - 🚀 **Passionate about:** High-performance automation, Clean Code, and Developer Experience
@@ -38,7 +38,7 @@
 
 | 🔭 Current Focus | 🌱 Latest Learning | 🎯 Ambition | 🌐 Portfolio |
 |:---:|:---:|:---:|:---:|
-| AI Video Production | Advanced LLM Security | AI Systems Architect | [📄 Resume](https://pradipkumarparmar.github.io/Resume/) |
+| Distributed AI Architecture | Advanced LLM Security | AI Systems Architect | [📄 Resume](https://pradipkumarparmar.github.io/Resume/) |
 
 ---
 
@@ -64,7 +64,6 @@
 ![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![smolagents](https://img.shields.io/badge/smolagents-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![MoviePy](https://img.shields.io/badge/MoviePy-232F3E?style=for-the-badge&logo=ffmpeg&logoColor=white)
 
 ### 🗄️ Databases & Data Engineering
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -84,7 +83,6 @@
 
 | Project | Tech | Description |
 |:--------|:----:|:------------|
-| 🎬 [**AI Video Studio**](https://github.com/pradipkumarparmar/AI_Video_Studio) | ![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react) | Automated Video Production Studio with AI Research, Scriptwriting, and Compositing. |
 | 📊 [**EduPulse Analytics**](https://github.com/pradipkumarparmar/EduPulse-Analytics) | ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws) | Premium Data Engineering Dashboard for Tracking Learning Progress using Snowflake & AWS. |
 | 🤖 [**Agentic AI Explorer**](https://github.com/pradipkumarparmar/Agent_From_Scratch) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) ![FastAPI](https://img.shields.io/badge/-FastAPI-00584C?style=flat-square&logo=fastapi) | Full-stack autonomous agent with Tool Use, Web Search, and Glassmorphism UI. |
 | 🛡️ [**SecureLink API**](https://github.com/pradipkumarparmar) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs) ![Helmet](https://img.shields.io/badge/-Helmet-00584C?style=flat-square&logo=express) | Hardened Express.js API with SQLi protection, input validation, and security headers. |
@@ -114,18 +112,6 @@
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph/?username=pradipkumarparmar&theme=radical&hide_border=true&custom_title=🔥%20Pradip's%20Contribution%20Graph&clear_cache=yes" width="100%"/>
 </p>
-
----
-
-<!-- 🏆 GitHub Trophies (Currently hidden because the public API server is down)
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=pradipkumarparmar&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
-</p>
--->
 
 ---
 
