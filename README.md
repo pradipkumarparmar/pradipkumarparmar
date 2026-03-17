@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:EE5A24,50:BE2EDD,75:6C5CE7,100:0652DD&height=240&section=header&text=Pradip%20Kumar%20Parmar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=🚀%20Full%20Stack%20Developer%20|%20DevOps%20Enthusiast%20|%20Lifelong%20Learner&descSize=18&descAlignY=55&descColor=ffeaa7"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:EE5A24,50:BE2EDD,75:6C5CE7,100:0652DD&height=240&section=header&text=Pradip%20Kumar%20Parmar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=🚀%20Full%20Stack%20Developer%20|%20AI%20Agent%20Architect%20|%20Data%20Engineer&descSize=18&descAlignY=55&descColor=ffeaa7"/>
 </p>
 
 <!-- Professional Profile Picture -->
@@ -10,7 +10,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&random=false&width=750&height=110&lines=%F0%9F%91%8B+Hey+there!+Welcome+to+my+World!;%E2%9C%A8+Building+Amazing+Things+with+Code;%F0%9F%8C%9F+Always+Learning%2C+Always+Growing!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&random=false&width=750&height=110&lines=%F0%9F%91%8B+Hey+there!+Welcome+to+my+World!;%E2%9C%A8+Building+Amazing+Things+with+Code;%F0%9F%A4%96+Building+Autonomous+AI+Agents;%F0%9F%8C%9F+Always+Learning%2C+Always+Growing!" alt="Typing SVG" /></a>
 </p>
 
 <!-- Profile Badges -->
@@ -26,10 +26,10 @@
 
 👋 Hello! I'm **Pradip Kumar Parmar**, a passionate Full Stack Developer and DevOps enthusiast.
 
-- 🏫 **Currently working on:** School Website with React.js & Node.js
-- 🌱 **Learning:** Advanced JavaScript, React, DevOps, and Data Engineering
-- 🎯 **Goal:** Master Full Stack Development & Cloud DevOps
-- 🚀 **Passionate about:** Building real-world web apps and automation
+- 🏫 **Currently working on:** Autonomous AI Agents & Data Pipelines
+- 🌱 **Learning:** Advanced LLM Orchestration, AWS Cloud, and Big Data Processing
+- 🎯 **Goal:** Master Agentic AI & Data Engineering
+- 🚀 **Passionate about:** Automation, AI-driven solutions, and Scalable Architecture
 - 😄 **Fun Fact:** I debug with `console.log` and I'm proud of it!
 
 <p align="center">
@@ -38,7 +38,7 @@
 
 | 🔭 Currently Working On | 🌱 Learning | 🎯 Goal | 🌐 Portfolio |
 |:---:|:---:|:---:|:---:|
-| School Website (React + Node) | JavaScript, React, DevOps | Full Stack Mastery | [📄 Resume](https://pradipkumarparmar.github.io/Resume/) |
+| AI Agents & Data Pipelines | Advanced LLMs & AWS | AI/DE Mastery | [📄 Resume](https://pradipkumarparmar.github.io/Resume/) |
 
 ---
 
@@ -46,8 +46,9 @@
 
 ### 🎨 Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-FF6348?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-E44D26?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-A55EEA?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-FF6B6B?style=for-the-badge&logo=html5&logoColor=white)
@@ -55,24 +56,33 @@
 
 ### ⚡ Frameworks & Libraries
 
+![FastAPI](https://img.shields.io/badge/FastAPI-00584C?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-2ECC71?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-FFC312?style=for-the-badge&logo=express&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-BE2EDD?style=for-the-badge&logo=vite&logoColor=white)
 
-### 🗄️ Databases & DevOps
+### 🤖 AI & LLM Orchestration
 
+![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![smolagents](https://img.shields.io/badge/smolagents-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+
+### 🗄️ Databases & Data Engineering
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-6C5CE7?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-FF6348?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🛠️ DevOps & Tools
+
 ![Git](https://img.shields.io/badge/Git-F79F1F?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-BE2EDD?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-EE5A24?style=for-the-badge&logo=linux&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-6C5CE7?style=for-the-badge&logo=apacheairflow&logoColor=white)
-
-### 🧰 Tools
-
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0652DD?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![npm](https://img.shields.io/badge/npm-FF6B6B?style=for-the-badge&logo=npm&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-EE5A24?style=for-the-badge&logo=githubpages&logoColor=white)
 
 ---
 
@@ -80,14 +90,13 @@
 
 | Project | Tech | Description |
 |:--------|:----:|:------------|
+| 🤖 [**Agentic AI Dashboard**](https://github.com/pradipkumarparmar/Agent_From_Scratch) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-00584C?style=flat-square&logo=fastapi&logoColor=white) | Full-stack autonomous agent with Tool Use and Glassmorphism UI |
+| 🎬 [**VidRush**](https://github.com/pradipkumarparmar/vidrush) | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![AI](https://img.shields.io/badge/-AI-FF6B6B?style=flat-square) | Automated AI Video Production Studio |
+| 📊 [**Data Engineering Dashboard**](https://github.com/pradipkumarparmar/Data-Engineering) | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) | Tracking curriculum progress across big data technologies |
 | 🏫 [**School_WebSite**](https://github.com/pradipkumarparmar/School_WebSite) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | Full-stack school website with admin panel |
 | 📄 [**Resume**](https://github.com/pradipkumarparmar/Resume) | ![CSS](https://img.shields.io/badge/-CSS-6C5CE7?style=flat-square&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-FF6B6B?style=flat-square&logo=html5&logoColor=white) | 🌐 [Live Portfolio](https://pradipkumarparmar.github.io/Resume/) — Online resume |
-| 📚 [**Java-Script-Learning**](https://github.com/pradipkumarparmar/Java-Script-Learning) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Code repository for learning JavaScript |
 | 📸 [**photobazaar**](https://github.com/pradipkumarparmar/photobazaar) | ![Python](https://img.shields.io/badge/-Python-FF6348?style=flat-square&logo=python&logoColor=white) | Photo bazaar application built with Python |
-| 🧮 [**Calculator_in_JAVA**](https://github.com/pradipkumarparmar/Calculator_in_JAVA) | ![Java](https://img.shields.io/badge/-Java-E44D26?style=flat-square&logo=openjdk&logoColor=white) | Calculator app built with Java |
 | ⚙️ [**Devops1**](https://github.com/pradipkumarparmar/Devops1) | ![Shell](https://img.shields.io/badge/-Shell-A55EEA?style=flat-square&logo=gnu-bash&logoColor=white) | DevOps automation scripts & configs |
-| 🔤 [**String_Manipulation**](https://github.com/pradipkumarparmar/String_Manipulation) | ![Python](https://img.shields.io/badge/-Python-FF6348?style=flat-square&logo=python&logoColor=white) | String manipulation utilities & algorithms |
-| 🏫 [**School_Site**](https://github.com/pradipkumarparmar/School_Site) | — | School website project |
 
 ---
 
