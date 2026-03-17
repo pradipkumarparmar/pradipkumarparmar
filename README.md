@@ -10,7 +10,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&random=false&width=750&height=110&lines=%F0%9F%91%8B+Hey+there!+Welcome+to+my+World!;%E2%9C%A8+Building+Amazing+Things+with+Code;%F0%9F%A4%96+Architecting+Autonomous+AI+Agents;%F0%9F%9A%80+Scaling+Distributed+Data+Systems!;%F0%9F%94%92+Securing+Apps+with+Best+Practices" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&random=false&width=750&height=110&lines=%F0%9F%91%8B+Hey+there!+Welcome+to+my+World!;%E2%9C%A8+Building+Amazing+Things+with+Code;%F0%9F%A4%96+Architecting+Autonomous+AI+Agents;%F0%9F%9A%80+Scaling+Distributed+Data+Systems!;%F0%9F%92%A1+Mastering+Scalable+System+Design" alt="Typing SVG" /></a>
 </p>
 
 <!-- Profile Badges -->
@@ -85,7 +85,6 @@
 |:--------|:----:|:------------|
 | 📊 [**EduPulse Analytics**](https://github.com/pradipkumarparmar/EduPulse-Analytics) | ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws) | Premium Data Engineering Dashboard for Tracking Learning Progress using Snowflake & AWS. |
 | 🤖 [**Agentic AI Explorer**](https://github.com/pradipkumarparmar/Agent_From_Scratch) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) ![FastAPI](https://img.shields.io/badge/-FastAPI-00584C?style=flat-square&logo=fastapi) | Full-stack autonomous agent with Tool Use, Web Search, and Glassmorphism UI. |
-| 🛡️ [**SecureLink API**](https://github.com/pradipkumarparmar) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs) ![Helmet](https://img.shields.io/badge/-Helmet-00584C?style=flat-square&logo=express) | Hardened Express.js API with SQLi protection, input validation, and security headers. |
 
 ---
 
