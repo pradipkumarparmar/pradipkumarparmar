@@ -95,9 +95,6 @@
 | 🏫 [**School_WebSite**](https://github.com/pradipkumarparmar/School_WebSite) | ![JavaScript](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript) | Full-stack school website with admin panel |
 | 📄 [**Resume**](https://github.com/pradipkumarparmar/Resume) | ![HTML](https://img.shields.io/badge/-HTML-FF6B6B?style=flat-square&logo=html5) | 🌐 [Live Portfolio](https://pradipkumarparmar.github.io/Resume/) — Online resume |
 | 📸 [**photobazaar**](https://github.com/pradipkumarparmar/photobazaar) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) | Photo bazaar application built with Python |
-| ⚙️ [**Devops1**](https://github.com/pradipkumarparmar/Devops1) | ![Shell](https://img.shields.io/badge/-Shell-A55EEA?style=flat-square&logo=gnu-bash) | DevOps automation scripts & configs |
-| 🎬 [**AI Video Studio**](https://github.com/pradipkumarparmar/AI_Video_Studio) | ![MoviePy](https://img.shields.io/badge/-MoviePy-232F3E?style=flat-square&logo=ffmpeg) | Automated Video Production Studio (AI Research & Compositing) |
-| 🛡️ [**SecureLink API**](https://github.com/pradipkumarparmar) | ![Node.js](https://img.shields.io/badge/-Node-339933?style=flat-square&logo=nodedotjs) | Hardened Express.js API with SQLi protection |
 
 </details>
 
