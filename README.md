@@ -84,7 +84,7 @@
 | Project | Tech | Description |
 |:--------|:----:|:------------|
 | 📊 [**School_Education_Analytics**](https://github.com/pradipkumarparmar/School_Education_Analytics) | ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws) | Premium Data Engineering Dashboard for Tracking Learning Progress using Snowflake & AWS. |
-| 🤖 [**Agentic AI Dashboard**](https://github.com/pradipkumarparmar/Agentic-AI-Dashboard) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) ![FastAPI](https://img.shields.io/badge/-FastAPI-00584C?style=flat-square&logo=fastapi) | Full-stack autonomous agent with Tool Use, Web Search, and Glassmorphism UI. |
+| 🤖 [**Weather Agentic AI Dashboard**](https://github.com/pradipkumarparmar/Agentic-AI-Dashboard) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) ![FastAPI](https://img.shields.io/badge/-FastAPI-00584C?style=flat-square&logo=fastapi) | Full-stack autonomous agent with Tool Use, Web Search, and Glassmorphism UI. |
 | 🤖 [**Agentic AI Explorer**](https://github.com/pradipkumarparmar/Agent_From_Scratch) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) ![FastAPI](https://img.shields.io/badge/-FastAPI-00584C?style=flat-square&logo=fastapi) | Full-stack autonomous agent with Tool Use, Web Search, and Glassmorphism UI. |
 
 <details>
