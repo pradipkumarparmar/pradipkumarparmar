@@ -26,8 +26,8 @@
 
 👋 Hello! I'm **Pradip Kumar Parmar**, a results-driven Architect specializing in AI Agents, Data Engineering, and Scalable Full Stack Applications.
 
-- 🏫 **Currently working on:** Advanced AI Agents & Snowflake Data Pipelines
-- 🌱 **Expertise in:** Multi-Agent Orchestration, Modern UI/UX (Glassmorphism), and Cloud Security
+- 🏫 **Currently working on:** Advanced AI Agents & MySQL Data Pipelines
+- 🌱 **Expertise in:** Multi-Agent Orchestration, Modern UI/UX (Glassmorphism), and Data Warehousing
 - 🎯 **Goal:** Bridge the gap between AI Research and Production-Ready Applications
 - 🚀 **Passionate about:** High-performance automation, Clean Code, and Developer Experience
 - 😄 **Fun Fact:** I don't just write code; I build ecosystems that write code!
@@ -66,11 +66,10 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 
 ### 🗄️ Databases & Data Engineering
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-6C5CE7?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
 ### 🛡️ Security & Best Practices
 ![OWASP](https://img.shields.io/badge/OWASP-3776AB?style=for-the-badge&logo=owasp&logoColor=white)
@@ -83,7 +82,7 @@
 
 | Project | Tech | Description |
 |:--------|:----:|:------------|
-| 📊 [**School_Education_Analytics**](https://github.com/pradipkumarparmar/School_Education_Analytics) | ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws) | Enterprise-grade Education Analytics platform built with **Snowflake**, **AWS**, **PySpark**, **dbt**, and **Airflow** for real-time tracking of student academic performance. |
+| 📊 [**School_Education_Analytics**](https://github.com/pradipkumarparmar/School_Education_Analytics) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) | Enterprise-grade Education Analytics platform built with **MySQL**, **Python**, **Pandas**, and **Streamlit** for real-time tracking of student academic performance. |
 | 🤖 [**Weather Agentic AI Dashboard**](https://github.com/pradipkumarparmar/Agentic-AI-Dashboard) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) ![FastAPI](https://img.shields.io/badge/-FastAPI-00584C?style=flat-square&logo=fastapi) | Full-stack autonomous agent with Tool Use, Web Search, and Glassmorphism UI. |
 
 <details>
